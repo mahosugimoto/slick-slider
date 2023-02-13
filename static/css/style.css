@@ -1,0 +1,17 @@
+* {
+    padding:0px;
+    margin:0px;
+    list-style:none;
+}
+
+body {
+    width:100%;
+    background-color:blue;
+}
+ul {
+    max-width:1000px;
+    margin:0px auto;
+}
+li img {
+    width:100%;
+}
